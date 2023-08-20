@@ -1,0 +1,41 @@
+mkdir Checkpoint-MisaelTerrez      
+   42  cd Checkpoint-MisaelTerrez/        
+   43  git init Checkpoint-MisaelTerrez   
+   44  touch main.js index.html
+   45  git remote add origin git@github.com:Misa-axl01/Checkpoint-MisaelTerrez.git  
+   46  ls
+   47  cd Checkpoint-MisaelTerrez/        
+   48  git remote add origin git@github.com:Misa-axl01/Checkpoint-MisaelTerrez.git  
+   49  cd ..
+   50  rm index.html
+   51  rm main.js
+   52  cd Checkpoint-MisaelTerrez/        
+   53  touch main.js index.html
+   54  git commit -m "commit 1  de Misael terrez"
+   55  git add .
+   56  git commit -m "commit 1  de Misael terrez"
+   57  git push -u origin main
+   58  git push origin main
+   59  git branch -M main
+   60  git push origin main
+   61  sudo su -
+   62  git remote add origin https://github.com/Misa-axl01/Checkpoint-MisaelTerrez.git
+   63  git push -u origin main
+   64  ssh-keygen -t ed25519 -C "misa.mtj@hotmail.com"
+   65  eval "$(ssh-agent -s)"
+   66  ssh-add ~/.ssh/id_ed25519
+   67  ls
+   68  cat ssh-add ~/.ssh/id_ed25519      
+   69  cat /c/Users/misam/.ssh/id_ed25519.pub
+   70  git push -u origin main
+   71  git branch feature
+   72  git checkout feature
+   73  mkdir Hardware Software SeguridadInformatica
+   74  touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.tx
+   78  git checkout main
+   79  ls
+   80  mv main.js resumenHardware.txt
+   81  mv index.html resumenSoftware.txt
+   82  vi resumenSoftware.txt
+   83  vi resumenHardware.txt
+   84  history
